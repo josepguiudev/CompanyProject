@@ -18,7 +18,7 @@ ADVANTAGES:
 - cmd cd MiApiCompany
 
 Now try to run it:
-- cmd dotnet run
+- cmd dotnet run --> Now go to http://localhost:5277/swagger/index.html
 
 ## Packages to download
 - Microsoft.EntityFrameworkCore.MySql: This package is required to work with MySQL. --> dotnet add package Microsoft.EntityFrameworkCore.MySql
