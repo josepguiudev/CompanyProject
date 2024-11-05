@@ -1,7 +1,7 @@
 # CompanyProject
 In this project we are going to make a quick overview of how to connect applications with different languages to an api and from there communicate with a database.
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: center; align-items: center;">
     <img src="images/login.jpg" alt="Logo del Proyecto" width="auto" height="200px" style="margin-right: 20px;">
     <img src="images/crud.jpg" alt="Logo del Proyecto" width="auto" height="200px" style="margin-right: 20px;">
     <img src="images/crud2.jpg" alt="Logo del Proyecto" width="auto" height="200px">
