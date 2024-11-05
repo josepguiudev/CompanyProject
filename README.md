@@ -6,6 +6,13 @@ In this project we are going to make a quick overview of how to connect applicat
 ### - We will use .NET 8 to create the api in c#.
 ### - We will use a small program in c# to manage users
 
+## Why use ASP.NET
+ADVANTAGES:
+-Multiplatform: Works on Windows, Linux and macOS.
+-High performance: It is known for its high performance and scalability.
+-HTTP request handling: It is ideal for building services that handle HTTP requests, such as RESTful APIs.
+-Database integration: You can use Entity Framework Core to connect your API to SQL or NoSQL databases easily.
+
 ## How to install [.Net SDK](https://dotnet.microsoft.com/es-es/download)
 - cmd dotnet new webapi -n MiApiCompany
 - cmd cd MiApiCompany
