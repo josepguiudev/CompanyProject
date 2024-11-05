@@ -144,3 +144,4 @@ C:\Users\josep\Desktop\Proyectos Personales\ProyectoGeneralCompany\MiApiCompany\
 C:\Users\josep\Desktop\Proyectos Personales\ProyectoGeneralCompany\MiApiCompany\obj\Debug\net8.0\MiApiCompany.genruntimeconfig.cache
 C:\Users\josep\Desktop\Proyectos Personales\ProyectoGeneralCompany\MiApiCompany\obj\Debug\net8.0\ref\MiApiCompany.dll
 C:\Users\josep\Desktop\Proyectos Personales\ProyectoGeneralCompany\MiApiCompany\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\josep\Desktop\Proyectos Personales\ProyectoGeneralCompany\MiApiCompany\obj\Debug\net8.0\MiApiCompany.sourcelink.json
