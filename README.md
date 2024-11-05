@@ -14,6 +14,12 @@ Table
     <img src="images/tabla.jpg" alt="Logo del Proyecto" width="auto" height="200px" style="margin-right: 20px;">
 </div>
 
+# API
+
+<div style="display: flex; justify-content: center; align-items: center;" width="100%">
+    <img src="images/swag.jpg" alt="Logo del Proyecto" width="auto" height="200px" style="margin-right: 20px;">
+</div>
+
 ## First steps to follow: 
 ### - We will use mysql as data manager where we will create a table for users
 ### - We will use .NET 8 to create the api in c#.
