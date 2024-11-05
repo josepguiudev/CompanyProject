@@ -2,8 +2,8 @@
 In this project we are going to make a quick overview of how to connect applications with different languages to an api and from there communicate with a database.
 
 <div style="display: flex; justify-content: center; align-items: center;" width="100%">
-    <img src="images/login.jpg" alt="Logo del Proyecto" width="auto" height="200px" style="margin-right: 20px;">
-    <img src="images/crud.jpg" alt="Logo del Proyecto" width="auto" height="200px" style="margin-right: 20px;">
+    <img src="images/login.jpg" alt="Logo del Proyecto" width="auto" height="200px" style="margin-right: 50px;">
+    <img src="images/crud.jpg" alt="Logo del Proyecto" width="auto" height="200px" style="margin-right: 50px;">
     <img src="images/crud2.jpg" alt="Logo del Proyecto" width="auto" height="200px">
 </div>
 
@@ -11,13 +11,13 @@ In this project we are going to make a quick overview of how to connect applicat
 Table
 
 <div style="display: flex; justify-content: center; align-items: center;" width="100%">
-    <img src="images/tabla.jpg" alt="Logo del Proyecto" width="auto" height="200px" style="margin-right: 20px;">
+    <img src="images/tabla.jpg" alt="Logo del Proyecto" width="auto" height="200px" style="margin-right: 50px;">
 </div>
 
 # API
 
 <div style="display: flex; justify-content: center; align-items: center;" width="100%">
-    <img src="images/swag.jpg" alt="Logo del Proyecto" width="auto" height="200px" style="margin-right: 20px;">
+    <img src="images/swag.jpg" alt="Logo del Proyecto" width="auto" height="200px" style="margin-right: 50px;">
 </div>
 
 ## First steps to follow: 
