@@ -7,6 +7,13 @@ In this project we are going to make a quick overview of how to connect applicat
     <img src="images/crud2.jpg" alt="Logo del Proyecto" width="auto" height="200px">
 </div>
 
+# MySQL
+Table
+
+<div style="display: flex; justify-content: center; align-items: center;" width="100%">
+    <img src="images/tabla.jpg" alt="Logo del Proyecto" width="auto" height="200px" style="margin-right: 20px;">
+</div>
+
 ## First steps to follow: 
 ### - We will use mysql as data manager where we will create a table for users
 ### - We will use .NET 8 to create the api in c#.
