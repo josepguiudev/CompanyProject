@@ -1,7 +1,9 @@
 # CompanyProject
 In this project we are going to make a quick overview of how to connect applications with different languages to an api and from there communicate with a database.
 
-<img src="images/login.jpg" alt="Logo del Proyecto" width="auto" height="100px">
+<img src="images/login.jpg" alt="Logo del Proyecto" width="auto" height="200px">
+<img src="images/crud.jpg" alt="Logo del Proyecto" width="auto" height="200px">
+<img src="images/crud2.jpg" alt="Logo del Proyecto" width="auto" height="200px">
 
 ## First steps to follow: 
 ### - We will use mysql as data manager where we will create a table for users
